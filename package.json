@@ -1,0 +1,16 @@
+{
+  "name": "ts-todo-app",
+  "version": "1.0.0",
+  "description": "A simple TypeScript To-Do List App",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc && open index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "type": "commonjs"
+}
